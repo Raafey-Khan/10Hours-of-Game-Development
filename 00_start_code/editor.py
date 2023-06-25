@@ -1,4 +1,4 @@
-import pygame, sys  #importing necessary modules yup cause it is as important
+import pygame, sys  #importing necessary modules yup cause it is as important.
 from settings import *
 
 class Editor:
